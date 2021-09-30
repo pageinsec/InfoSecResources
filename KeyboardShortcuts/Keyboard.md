@@ -4,6 +4,8 @@ I hate leaving the keyboard.
 # Reference Links
 [Gmail](https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform=Desktop)
 
+[Mac OS](https://support.apple.com/en-us/HT201236#:~:text=Cut%2C%20copy%2C%20paste%2C%20and%20other%20common%20shortcuts%201,reversing%20the%20undo%20command%20...%20More%20items%20)
+
 [MS Edge](https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad)
 
 [MS Excel](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
