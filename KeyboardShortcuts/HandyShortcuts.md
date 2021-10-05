@@ -66,7 +66,24 @@ L/R usually means an arrow
 * OPTION+L/R Start/end of word
 * OPTION+Up/Down Top/bottom of paragraph
 * CMD+Up/Down Increase/decrease text size
+* CTRL+L/R Switch desktops on screen where mouse focus is (if separate spaces are enabled)
+* CTRL+<1-9> Go to desktop (have to enable), b/c CTRL+L/R only switches on the monitor where the mouse is
 
 ## Chrome
-CMD+L address bar Mac
-CTRL+D address bar Windows
+* CMD+L address bar Mac
+* CTRL+D address bar Windows
+* CMD/CTRL+R to refresh
+
+
+## Slack
+* Use Up/Down arrows to navigate through threads
+* When on a message, use R to react
+* CMD/CTRL + / To bring up reference
+* CMD/CTRL + N New message
+* CMD/CTRL + SHIFT + T Threads
+* CMD/CTRL + SHIFT + K All DMs
+* CMD/CTRL + SHIFT + M Mentions & reactions
+* CMD/CTRL + SHIFT + Y Set status
+* F6, SHIFT+F6 Move to next/previous section
+* Option/ALT + SHIFT + CMD/CTRL + C Format as code
+* Right or T Thread (when focused on message)

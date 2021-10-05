@@ -18,5 +18,7 @@ I hate leaving the keyboard.
 
 [MS Windows 10](https://support.microsoft.com/en-us/windows/windows-10-keyboard-shortcuts-3d444b08-3a00-abd6-67da-ecfc07e86b98)
 
+[Slack](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
+
 [Zoom](https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts)
 
