@@ -87,3 +87,6 @@ L/R usually means an arrow
 * F6, SHIFT+F6 Move to next/previous section
 * Option/ALT + SHIFT + CMD/CTRL + C Format as code
 * Right or T Thread (when focused on message)
+* CTRL/CMD + <#> Move to workspace
+* ALT/Option + Up/Down Move up/down in sidebar when open
+* CTRL/CMD + SHIFT + D Hide/Show sidebar
