@@ -1,6 +1,5 @@
-# Places to check on IPs & URLs
+# Places to check on IPs and URLs
 
-## Straight IP checks
 https://who.is/
 
 https://viewdns.info
@@ -49,5 +48,10 @@ https://www.iplocation.net/
 [Geopeeker](https://geopeeker.com/) - view from different parts of the world, handy way to preview URLs
 
 [Palo Alto URL Filtering Check](https://urlfiltering.paloaltonetworks.com/)
+
+
+
+
+
 
 
