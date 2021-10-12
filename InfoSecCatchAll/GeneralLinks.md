@@ -13,11 +13,13 @@
 
 [apsdehal - awesome-ctf](https://github.com/apsdehal/awesome-ctf) - a bit dated, but some good stuff
 
-### Network scanners
+### Network stuff
 
 [Angry IP Scanner](https://angryip.org/)
 
 [Advanced IP Scanner (download)](https://www.advanced-ip-scanner.com/)
+
+[farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS stuff, including security applications 
 
 ### Blue Team Tools
 [BHIS CredDefense Toolkit](https://www.blackhillsinfosec.com/the-creddefense-toolkit/)
