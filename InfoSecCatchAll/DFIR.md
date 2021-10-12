@@ -46,3 +46,9 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [SANS DFIR Cheat Sheets & Posters](https://www.sans.org/posters/?focus-area=digital-forensics)
 
+[AndrewRathbun-DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps)
+
+[AndrewRathbun-DFIRRegex](https://github.com/AndrewRathbun/DFIRRegex)
+
+[uncoder rule converter](https://uncoder.io/) - convert searches, filters, etc. between several tools (ex - Splunk to Azure Sentinel)
+
