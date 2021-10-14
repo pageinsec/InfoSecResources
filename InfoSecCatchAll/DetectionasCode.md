@@ -16,11 +16,24 @@ https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-p
 
 https://www.rsaconference.com/library/presentation/detection-as-code-detection-development-using-cicd
 
+# Testing Detections
+
+https://www.blumira.com/how-to-test-your-siems-detections/
+
+https://www.blumira.com/wp-content/uploads/2020/08/Five-Easy-Ways-to-Test-Your-SIEMs-Detections.pdf
+
+https://medium.com/@a.randomuserid/generating-att-ck-signals-in-the-elastic-siem-1c1e295404cc
+
 # Associated repos
 
 https://github.com/panther-labs/panther-analysis
 
 https://github.com/splunk/security_content
+
+https://github.com/SigmaHQ/sigma
+
+https://github.com/elastic/detection-rules
+
 
 # API stuff
 
