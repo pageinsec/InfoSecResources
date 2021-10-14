@@ -21,3 +21,15 @@ https://www.rsaconference.com/library/presentation/detection-as-code-detection-d
 https://github.com/panther-labs/panther-analysis
 
 https://github.com/splunk/security_content
+
+# API stuff
+
+https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/
+
+https://www.dataquest.io/blog/python-api-tutorial
+
+https://rapidapi.com/blog/how-to-use-an-api-with-python/
+
+https://github.com/VirusTotal/vt-py
+
+https://pypi.org/project/requests/
