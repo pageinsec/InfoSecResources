@@ -16,6 +16,10 @@ https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-p
 
 https://www.rsaconference.com/library/presentation/detection-as-code-detection-development-using-cicd
 
+https://docs.microsoft.com/en-us/azure/sentinel/notebooks
+
+https://docs.microsoft.com/en-us/azure/sentinel/notebook-get-started
+
 # Testing Detections
 
 https://www.blumira.com/how-to-test-your-siems-detections/
@@ -34,6 +38,7 @@ https://github.com/SigmaHQ/sigma
 
 https://github.com/elastic/detection-rules
 
+https://github.com/Azure/Azure-Sentinel-Notebooks
 
 # API stuff
 
