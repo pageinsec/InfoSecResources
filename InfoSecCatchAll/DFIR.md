@@ -52,3 +52,6 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [uncoder rule converter](https://uncoder.io/) - convert searches, filters, etc. between several tools (ex - Splunk to Azure Sentinel)
 
+[Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - cloud
+
+
