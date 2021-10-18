@@ -21,6 +21,8 @@
 
 [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS stuff, including security applications 
 
+[ddosify](https://github.com/ddosify/ddosify) - load testing tool
+
 ### Blue Team Tools
 [BHIS CredDefense Toolkit](https://www.blackhillsinfosec.com/the-creddefense-toolkit/)
 
@@ -32,3 +34,5 @@
 * espy
 * Passer
 * RITA
+
+[ztgrace/changeme](https://github.com/ztgrace/changeme) - cred scanner, Linux, focuses on default/backdoor creds
