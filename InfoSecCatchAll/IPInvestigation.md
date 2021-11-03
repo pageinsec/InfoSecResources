@@ -10,6 +10,10 @@ https://censys.io/
 
 https://threatcrowd.org
 
+https://www.robtex.com/
+
+https://hybrid-analysis.com/
+
 https://thatsthem.com
 
 https://www.zoomeye.org
