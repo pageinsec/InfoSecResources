@@ -21,6 +21,8 @@
 
 [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS stuff, including security applications 
 
+[ddosify](https://github.com/ddosify/ddosify) - load testing tool
+
 ### Blue Team Tools
 [BHIS CredDefense Toolkit](https://www.blackhillsinfosec.com/the-creddefense-toolkit/)
 
@@ -32,6 +34,7 @@
 * espy
 * Passer
 * RITA
+
 
 [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - help not commit secrets to git
 
@@ -45,3 +48,6 @@
 [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - collection of tools
 
 [threatexpress/red-team-scripts](https://github.com/threatexpress/red-team-scripts) - collection of scripts
+
+[ztgrace/changeme](https://github.com/ztgrace/changeme) - cred scanner, Linux, focuses on default/backdoor creds
+
