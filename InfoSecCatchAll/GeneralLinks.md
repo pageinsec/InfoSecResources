@@ -35,4 +35,19 @@
 * Passer
 * RITA
 
+
+[awslabs/git-secrets](https://github.com/awslabs/git-secrets) - help not commit secrets to git
+
+[OWASP/Python-Honeypot](https://github.com/awslabs/git-secrets)
+
+
+### Red Team Tools
+
+[outflanknl/RedELK](https://github.com/outflanknl/RedELK) - SIEM for red teams (watch them watch you)
+
+[bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - collection of tools
+
+[threatexpress/red-team-scripts](https://github.com/threatexpress/red-team-scripts) - collection of scripts
+
 [ztgrace/changeme](https://github.com/ztgrace/changeme) - cred scanner, Linux, focuses on default/backdoor creds
+
