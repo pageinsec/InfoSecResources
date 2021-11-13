@@ -23,6 +23,8 @@
 
 [ddosify](https://github.com/ddosify/ddosify) - load testing tool
 
+[API Clarity](https://apiclarity.io/) - check API security
+
 ### Blue Team Tools
 [BHIS CredDefense Toolkit](https://www.blackhillsinfosec.com/the-creddefense-toolkit/)
 
