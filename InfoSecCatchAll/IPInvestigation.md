@@ -62,7 +62,11 @@ https://www.maxmind.com/en/home
 
 [Palo Alto URL Filtering Check](https://urlfiltering.paloaltonetworks.com/)
 
+[DNSdumpter](https://dnsdumpster.com/)
 
+[DNS Spy](https://dnsspy.io/)
+
+[DNSlookup - from ceipam](https://ceipam.eu/en/dnslookup.php)
 
 
 
