@@ -38,6 +38,8 @@ L/R usually means an arrow
 * WIN+CTRL+L/R Change desktop
 * WIN+SHIFT+L/R Move to different monitor
 * WIN+SHIFT+S Screen snip
+* WIN+E Open File Explorer
+* WIN+K Open Connect menu (quickly connect Bluetooth devices)
 * Clear clipboard `CMD: echo off | clip`
 
 ## Mac OS

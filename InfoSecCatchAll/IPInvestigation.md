@@ -10,6 +10,10 @@ https://censys.io/
 
 https://threatcrowd.org
 
+https://www.robtex.com/
+
+https://hybrid-analysis.com/
+
 https://thatsthem.com
 
 https://www.zoomeye.org
@@ -58,7 +62,11 @@ https://www.maxmind.com/en/home
 
 [Palo Alto URL Filtering Check](https://urlfiltering.paloaltonetworks.com/)
 
+[DNSdumpter](https://dnsdumpster.com/)
 
+[DNS Spy](https://dnsspy.io/)
+
+[DNSlookup - from ceipam](https://ceipam.eu/en/dnslookup.php)
 
 
 
