@@ -1,7 +1,13 @@
-Collection of DFIR tools on GitHub: [meirwah/awesome-incident-response: A curated list of tools for incident response (github.com)](https://github.com/meirwah/awesome-incident-response)
+# DFIR
 
-Cyber Triage: Basis Technology Corporation [https://www.cybertriage.com/]
+## Cheat Sheets/Quick info
+[SANS DFIR Cheat Sheets & Posters](https://www.sans.org/posters/?focus-area=digital-forensics)
 
+[Jai Minton DFIR cheatsheet](https://www.jaiminton.com/cheatsheet/DFIR/#)
+
+[RoseSEcurity/Red-Teaming-TTPS](https://github.com/rosesecurity/red-teaming-ttps) - useful for building searches, detections
+
+## Reference
 PDF analysis: [GitHub - filipi86/MalwareAnalysis-in-PDF](https://github.com/filipi86/MalwareAnalysis-in-PDF)
 
 Malware persistence info: [Karneades/malware-persistence: Collection of malware persistence and hunting information. Be a persistent persistence hunter! (github.com)](https://github.com/Karneades/malware-persistence)
@@ -9,16 +15,6 @@ Malware persistence info: [Karneades/malware-persistence: Collection of malware 
 SANS DFIR Summit 2021 links: [SANS DFIR 2021 - start.me](https://start.me/p/xbgNmz/sans-dfir-2021)
 
 Logon types and where to find them: [Fantastic Windows Logon types and Where to Find Credentials in Them (alteredsecurity.com)](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
-
-KAPE - free for research purposes and for internal: [KAPE Enterprise License (kroll.com)](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/enterprise-license)
-
-[SANS SOF-ELK](https://www.sans.org/tools/sof-elk/)
-
-[REMnux SANS REMnux®](https://www.sans.org/tools/remnux/)
-
-[SANS EZ Tools](https://www.sans.org/tools/ez-tools/)
-
-[SANS SIFT SIFT Workstation](https://www.sans.org/tools/sift-workstation/)
 
 CERT IR Methodologies [CSE IRM IRM/EN at master · certsocietegenerale/IRM (github.com)](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 
@@ -32,8 +28,6 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [Resources - Applied Incident Response](https://www.appliedincidentresponse.com/resources/)
 
-[ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
-
 [Security Incident - PagerDuty Incident Response Documentation](https://response.pagerduty.com/during/security_incident_response/)
 
 [CISA Tabletop Exercise Package | CISA](https://www.cisa.gov/publication/cisa-tabletop-exercise-package)
@@ -44,14 +38,32 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [NIST 800-61r2 Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
-[SANS DFIR Cheat Sheets & Posters](https://www.sans.org/posters/?focus-area=digital-forensics)
-
 [AndrewRathbun-DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps)
 
 [AndrewRathbun-DFIRRegex](https://github.com/AndrewRathbun/DFIRRegex)
 
+## Tools
+Collection of DFIR tools on GitHub: [meirwah/awesome-incident-response: A curated list of tools for incident response (github.com)](https://github.com/meirwah/awesome-incident-response)
+
+Cyber Triage: Basis Technology Corporation [https://www.cybertriage.com/]
+
+KAPE - free for research purposes and for internal: [KAPE Enterprise License (kroll.com)](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/enterprise-license)
+
+[SANS SOF-ELK](https://www.sans.org/tools/sof-elk/)
+
+[REMnux SANS REMnux®](https://www.sans.org/tools/remnux/)
+
+[SANS EZ Tools](https://www.sans.org/tools/ez-tools/)
+
+[SANS SIFT SIFT Workstation](https://www.sans.org/tools/sift-workstation/)
+
+[ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
+
 [uncoder rule converter](https://uncoder.io/) - convert searches, filters, etc. between several tools (ex - Splunk to Azure Sentinel)
 
 [Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - cloud
+
+
+
 
 
