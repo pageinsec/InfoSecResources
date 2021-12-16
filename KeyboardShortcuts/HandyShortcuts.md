@@ -22,6 +22,11 @@ L/R usually means an arrow
 * `SHIFT + space` Select row
 * `CTRL + space` Select column
 * `CTRL + -` Delete row/column
+* `CTRL + 9` Hide rows
+* `CTRL + 0` Hide columns
+* `CTRL + SHIFT + 9/0` Unhide rows/columns - will have to clear the `Advanced Key Settings` shortcut for changing b/n input languages (Settings > Language > Keyboard > Input language hot keys > Advanced Key Settings > Between input languages > Change Key Sequence > Switch Keyboard Layout > change to `Not assigned`)
+* `CTRL + SHIFT + +` Insert row/column (select row/column to avoid having to enter more, will insert above/before)
+
 
 ## Edge
 * `ALT + SHIFT + B` Favorites bar
@@ -108,8 +113,10 @@ L/R usually means an arrow
 ** `CTRL + SHIFT + O` Go to Project options
 ** `CTRL + -` Go to previous tab
 ** `CTRL + =` Go to next tab
+** `CTRL + U` Editor - URL-encode key characters (Use H and B for HTML and Base64 encoding respectively)
+** `CTRL + SHIFT + U` Editor - URL-decode (Use H and B for HTML and Base64 decoding respectively)
 
-* Set up under `User Options > Misc > Hotkeys` - I tend to use 
+* Set up under `User Options > Misc > Hotkeys` - I tend to use `CTRL + ALT` for custom hotkeys b/c I've found that less likely to overlap.
 ** `CTRL + ALT + U` Editor - Toggle URL-encoding as you type 
 ** `CTRL + ALT + C` Clear all payload markers
 ** `CTRL + ALT + A` Add Intruder payload position markers
