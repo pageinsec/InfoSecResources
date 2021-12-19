@@ -122,3 +122,6 @@ L/R usually means an arrow
 ** `CTRL + ALT + A` Add Intruder payload position markers
 ** `CTRL + ALT + Z` Start Intruder attack
 ** `CTRL + ALT + B` Open embedded browser
+** `CTRL + ALT + J` Go forward in Repeater history
+** `CTRL + ALT + K` Go backward in Repeater hisotyr (if on Windows, may have to disable this shortcut for Kindle - https://superuser.com/questions/1320544/how-to-remove-hotkey-on-amazon-kindle-pc-that-opens-application#:~:text=Press%20Ctrl%20%2B%20Alt%20%2B%20K%20to%20open,field%20by%20focusing%20on%20it%20and%20pressing%20Backspace. In TIL - this approach can also allow you to set shortcuts to open some Windows programs.)
+
