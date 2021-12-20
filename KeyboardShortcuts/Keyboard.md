@@ -20,5 +20,7 @@ I hate leaving the keyboard.
 
 [Slack](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
 
+[Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 [Zoom](https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts)
 
