@@ -134,3 +134,4 @@ L/R usually means an arrow
 `CTRL + SHIFT + K` Delete line
 `CTRL + ENTER` Insert line below
 `CTRL + SHIFT + ENTER` Insert line above
+`ALT + Z` Toggle word wrap
