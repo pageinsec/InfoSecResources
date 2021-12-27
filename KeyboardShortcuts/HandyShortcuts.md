@@ -27,7 +27,6 @@ L/R usually means an arrow
 * `CTRL + SHIFT + 9/0` Unhide rows/columns - will have to clear the `Advanced Key Settings` shortcut for changing b/n input languages (Settings > Language > Keyboard > Input language hot keys > Advanced Key Settings > Between input languages > Change Key Sequence > Switch Keyboard Layout > change to `Not assigned`)
 * `CTRL + SHIFT + +` Insert row/column (select row/column to avoid having to enter more, will insert above/before)
 
-
 ## Edge
 * `ALT + SHIFT + B` Favorites bar
 * `CTRL + SHIFT + K` Duplicate tab
@@ -100,25 +99,39 @@ L/R usually means an arrow
 
 ## Burp
 * Default
-** `CTRL + R` Send to Repeater
-** `CTRL + I` Send to Intruder
-** `CTRL + F` Forward intercepted Proxy message
-** `CTRL + SPACE` Issue Repeater request
-** `CTRL + T` Toggle Proxy interception
-** `CTRL + SHIFT + D` Go to Dashboard
-** `CTRL + SHIFT + T` Go to Target
-** `CTRL + SHIFT + P` Go to Proxy
-** `CTRL + SHIFT + I` Go to Intruder
-** `CTRL + SHIFT + R` Go to Repeater
-** `CTRL + SHIFT + O` Go to Project options
-** `CTRL + -` Go to previous tab
-** `CTRL + =` Go to next tab
-** `CTRL + U` Editor - URL-encode key characters (Use H and B for HTML and Base64 encoding respectively)
-** `CTRL + SHIFT + U` Editor - URL-decode (Use H and B for HTML and Base64 decoding respectively)
+    * `CTRL + R` Send to Repeater
+    * `CTRL + I` Send to Intruder
+    * `CTRL + F` Forward intercepted Proxy message
+    * `CTRL + SPACE` Issue Repeater request
+    * `CTRL + T` Toggle Proxy interception
+    * `CTRL + SHIFT + D` Go to Dashboard
+    * `CTRL + SHIFT + T` Go to Target
+    * `CTRL + SHIFT + P` Go to Proxy
+    * `CTRL + SHIFT + I` Go to Intruder
+    * `CTRL + SHIFT + R` Go to Repeater
+    * `CTRL + SHIFT + O` Go to Project options
+    * `CTRL + -` Go to previous tab
+    * `CTRL + =` Go to next tab
+    * `CTRL + U` Editor - URL-encode key characters (Use H and B for HTML and Base64 encoding respectively)
+    * `CTRL + SHIFT + U` Editor - URL-decode (Use H and B for HTML and Base64 decoding respectively)
 
 * Set up under `User Options > Misc > Hotkeys` - I tend to use `CTRL + ALT` for custom hotkeys b/c I've found that less likely to overlap.
-** `CTRL + ALT + U` Editor - Toggle URL-encoding as you type 
-** `CTRL + ALT + C` Clear all payload markers
-** `CTRL + ALT + A` Add Intruder payload position markers
-** `CTRL + ALT + Z` Start Intruder attack
-** `CTRL + ALT + B` Open embedded browser
+    * `CTRL + ALT + U` Editor - Toggle URL-encoding as you type 
+    * `CTRL + ALT + C` Clear all payload markers
+    * `CTRL + ALT + A` Add Intruder payload position markers
+    * `CTRL + ALT + Z` Start Intruder attack
+    * `CTRL + ALT + B` Open embedded browser
+    * `CTRL + ALT + J` Go forward in Repeater history
+    * `CTRL + ALT + K` Go backward in Repeater hisotyr (if on Windows, may have to disable this shortcut for Kindle - https://superuser.com/questions/1320544/how-to-remove-hotkey-on-amazon-kindle-pc-that-opens-application#:~:text=Press%20Ctrl%20%2B%20Alt%20%2B%20K%20to%20open,field%20by%20focusing%20on%20it%20and%20pressing%20Backspace. In TIL - this approach can also allow you to set shortcuts to open some Windows programs.)
+
+## VS Code
+* `CTRL + backtick` Open/go to terminal
+* `CTRL + P` or `F1` Quick open or go to file; `F1` likely in use by other shortcuts
+* `CTRL + SHIFT + N` New window/instance
+* `CTRL + SHIFT + W` Close window/instance
+* `ALT + up/down` Move line up/down
+* `SHIFT + ALT + up/down` Copy line up/down
+* `CTRL + SHIFT + K` Delete line
+* `CTRL + ENTER` Insert line below
+* `CTRL + SHIFT + ENTER` Insert line above
+* `ALT + Z` Toggle word wrap
