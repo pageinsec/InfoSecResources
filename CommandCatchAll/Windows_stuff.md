@@ -7,3 +7,8 @@ powercfg.exe /setacvalueindex SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 1200
 powercfg.exe /setdcvalueindex SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 1200
 powercfg.exe /setactive SCHEME_CURRENT
 ```
+
+## One-liner to update names of files
+`Get-ChildItem <folder> | ForEach {Rename-Item $_ $_.Name.Replace("<getridof>", "<changeto>")}`
+* Specify filetype within folder if desired - `<folder>*.exe`
+* Use `""` to remove desired text
