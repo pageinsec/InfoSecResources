@@ -5,3 +5,6 @@
 [Active Countermeasures Threat Hunting Intro Course](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
 
 [Splunk Security Content Github](https://github.com/splunk/security_content)
+
+[schwartz1375/Threat-Hunting-in-AWS](https://github.com/schwartz1375/Threat-Hunting-in-AWS)
+

@@ -57,4 +57,5 @@
 
 [Mubix/post-exploitation-wiki](https://github.com/mubix/post-exploitation-wiki)
 
+[j3ssie/osmedeus](https://github.com/j3ssie/osmedeus/) - workflow engine for offensive security
 
