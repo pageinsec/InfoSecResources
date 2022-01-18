@@ -42,6 +42,8 @@
 
 [OWASP/Python-Honeypot](https://github.com/awslabs/git-secrets)
 
+[Bug Alert website](https://bugalert.org/) and [github](https://github.com/BugAlertDotOrg/bugalert)
+
 
 ### Red Team Tools
 
@@ -58,4 +60,6 @@
 [Mubix/post-exploitation-wiki](https://github.com/mubix/post-exploitation-wiki)
 
 [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus/) - workflow engine for offensive security
+
+[opsdisk/the_cyber_plumbers_handbooks](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 

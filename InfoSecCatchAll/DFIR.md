@@ -42,6 +42,7 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [AndrewRathbun-DFIRRegex](https://github.com/AndrewRathbun/DFIRRegex)
 
+[How to analyze malicious MS Office files](https://www.intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/)
 ## Tools
 Collection of DFIR tools on GitHub: [meirwah/awesome-incident-response: A curated list of tools for incident response (github.com)](https://github.com/meirwah/awesome-incident-response)
 
