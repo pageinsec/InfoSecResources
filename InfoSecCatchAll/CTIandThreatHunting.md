@@ -8,3 +8,7 @@
 
 [schwartz1375/Threat-Hunting-in-AWS](https://github.com/schwartz1375/Threat-Hunting-in-AWS)
 
+[hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+
+[aptnotes](https://github.com/aptnotes/)
+
