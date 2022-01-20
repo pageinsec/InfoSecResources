@@ -9,3 +9,28 @@
 [dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) - AWS pentesting scripts; probably should vet carefully based on the readme
 
 [Queit Riot](https://github.com/righteousgambit/quiet-riot) - see [associated blog post](https://blog.traingrc.com/introducing-quiet-riot-c595cfa629e), AWS enumeration
+
+## Cloud Pentesting (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
+[flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper
+
+[Serverless Goat](https://github.com/OWASP/Serverless-Goat#:~:text=ServerlessGoat%20is%20a%20simple%20AWS%20Lambda%20application%2C%20which,for%20deployment%20through%20the%20AWS%20Serverless%20Application%20Repository.) - OWASP
+
+[AWS S3 CTF Challenge](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
+
+[Francis Alexander Vulnerable lambda](https://github.com/torque59/AWS-Vulnerable-Lambda)
+
+[James Wickett vulnerable lambda](https://github.com/wickett/lambhack)
+
+[Bishop Fox iam-vulnerable](https://github.com/BishopFox/iam-vulnerable)
+
+[cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Rhino Security
+
+[Appsecco walkthrough of cloudgoat 2.0 scenarios](https://github.com/appsecco/attacking-cloudgoat2)
+
+[Damn vulnerable cloud application](https://github.com/m6a-UdS/dvca)
+
+[Damn vulnerable serverless application](https://github.com/OWASP/DVSA)
+
+[sadcloud](https://github.com/nccgroup/sadcloud) - NCC Group, insecure cloud infrastructure
+
+[Appsecco free courseware and labs](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)

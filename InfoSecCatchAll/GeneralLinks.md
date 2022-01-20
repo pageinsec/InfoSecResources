@@ -44,6 +44,13 @@
 
 [Bug Alert website](https://bugalert.org/) and [github](https://github.com/BugAlertDotOrg/bugalert)
 
+[salesforce/lobster-pot](https://github.com/salesforce/lobster-pot) - scan Github code and rport findings
+
+[Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - find sensitive stuff in system env variables
+
+[Pinatahub](https://pinatahub.incognita.tech/) - Github secrets in public repos, Incognita.Tech
+
+[ossf/allstar](https://github.com/ossf/allstar) - Github app to set/enforce security policies
 
 ### Red Team Tools
 
@@ -62,4 +69,6 @@
 [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus/) - workflow engine for offensive security
 
 [opsdisk/the_cyber_plumbers_handbooks](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+
+[swimlane/atomic-operator](https://github.com/swimlane/atomic-operator)
 

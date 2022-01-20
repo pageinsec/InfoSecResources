@@ -33,3 +33,8 @@
 [linktr.ee](https://linktr.ee/) - place where people can collect sites, links, good place to look for leads
 
 [OSINT Treasure Trove](https://bib.opensourceintelligence.biz/)
+
+[cleanup.pictures](https://cleanup.pictures/) - remove stuff from pictures
+
+[TCM OSINT Fundamentals](https://www.youtube.com/watch?v=qwA6MmbeGNo)
+
