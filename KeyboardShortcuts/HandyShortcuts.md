@@ -4,8 +4,11 @@
 L/R usually means an arrow
 
 ## OneNote
-* `CTRL+M` New window
-* `CTRL+G` Change notebook
+* `CTRL + M` New window
+* `CTRL + G` Change notebook
+* `CTRL + (SHIFT +) TAB` Move through sections
+* `CTRL + SHIFT + G` Go to section navigation (allows using arrows or tab to get to section groups or going up to parent section)
+* `CTRL + PAGEUP/PAGEDOWN` Move through pages 
 * `CTRL + SHIFT + ALT + N` Subpage
 * `CTRL + ALT + N` Same level
 * `CTRL + N` Top level page
