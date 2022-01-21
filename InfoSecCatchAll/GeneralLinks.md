@@ -25,6 +25,8 @@
 
 [API Clarity](https://apiclarity.io/) - check API security
 
+[sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows events samples
+
 ### Blue Team Tools
 [BHIS CredDefense Toolkit](https://www.blackhillsinfosec.com/the-creddefense-toolkit/)
 
@@ -51,6 +53,10 @@
 [Pinatahub](https://pinatahub.incognita.tech/) - Github secrets in public repos, Incognita.Tech
 
 [ossf/allstar](https://github.com/ossf/allstar) - Github app to set/enforce security policies
+
+[mytechnotalent/Zeek-Network-Security-Monitor](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor) - Zeek tutorial
+
+
 
 ### Red Team Tools
 
