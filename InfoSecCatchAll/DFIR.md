@@ -14,6 +14,8 @@ Malware persistence info: [Karneades/malware-persistence: Collection of malware 
 
 SANS DFIR Summit 2021 links: [SANS DFIR 2021 - start.me](https://start.me/p/xbgNmz/sans-dfir-2021)
 
+SANS CTI Summit 2022 links: [SANS DFIR 2022 - start.me](https://start.me/p/6rnyLp/sans-cyber-threat-intelligence-summit-2022)
+
 Logon types and where to find them: [Fantastic Windows Logon types and Where to Find Credentials in Them (alteredsecurity.com)](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
 
 CERT IR Methodologies [CSE IRM IRM/EN at master · certsocietegenerale/IRM (github.com)](https://github.com/certsocietegenerale/IRM/tree/master/EN)
