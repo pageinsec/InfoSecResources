@@ -78,3 +78,5 @@
 
 [swimlane/atomic-operator](https://github.com/swimlane/atomic-operator)
 
+[DataDog/stratus-red-team](https://github.com/Datadog/stratus-red-team/) - Atomic Red Team for the cloud
+
