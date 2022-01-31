@@ -56,7 +56,17 @@
 
 [mytechnotalent/Zeek-Network-Security-Monitor](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor) - Zeek tutorial
 
+[shellray](https://shellray.com/) - php webshell detector
 
+[UnPHP](https://www.unphp.net/) - analyze obfuscated/malicious PHP code
+
+[cys3c/BackdoorMan](https://github.com/cys3c/BackdoorMan) - Python toolkit to find malicious/hidden/suspicious PHP scripts/shells
+
+[CiscoCXSecurity/NeoPI](https://github.com/CiscoCXSecurity/NeoPI) - Python script that analyzes text/script files for obfuscated and encrypted content
+
+[LOKI IOC scanner](https://www.nextron-systems.com/loki/)
+
+[Thor-Lite](https://www.nextron-systems.com/thor-lite/) - Free version of THOR IOC and YARA scanner
 
 ### Red Team Tools
 
