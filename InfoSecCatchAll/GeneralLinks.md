@@ -60,6 +60,8 @@
 
 [UnPHP](https://www.unphp.net/) - analyze obfuscated/malicious PHP code
 
+[nbs-system/php-malware-finder](https://github.com/nbs-system/php-malware-finder) - detects obfuscated code/files using PHP functions common in malware/webshells
+
 [cys3c/BackdoorMan](https://github.com/cys3c/BackdoorMan) - Python toolkit to find malicious/hidden/suspicious PHP scripts/shells
 
 [CiscoCXSecurity/NeoPI](https://github.com/CiscoCXSecurity/NeoPI) - Python script that analyzes text/script files for obfuscated and encrypted content
