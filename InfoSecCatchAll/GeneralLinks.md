@@ -70,6 +70,18 @@
 
 [Thor-Lite](https://www.nextron-systems.com/thor-lite/) - Free version of THOR IOC and YARA scanner
 
+[Web Shell Detector](https://www.shelldetector.com/)
+
+[Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/)
+
+[FixTheExchange/Invoke-ExchangeWebShellHunter](https://github.com/FixTheExchange/Invoke-ExchangeWebShellHunter)
+
+[UDURRANI Tools](https://udurrani.com/0fff/tl.html) - includes NPROCWATCH, NCONNWATCH, NSERVICEWATCH, and more
+
+[Get-TimeDiffFileStacking.ps1](https://gist.github.com/anonymous/dcfa7cb4933b30954737ccbf51024c1a)
+
+[Get-FullPathFileStacking.ps1](https://gist.github.com/anonymous/e8ced9c92a689e4cdb67fe0417cd272c)
+
 ### Red Team Tools
 
 [outflanknl/RedELK](https://github.com/outflanknl/RedELK) - SIEM for red teams (watch them watch you)
@@ -91,4 +103,8 @@
 [swimlane/atomic-operator](https://github.com/swimlane/atomic-operator)
 
 [DataDog/stratus-red-team](https://github.com/Datadog/stratus-red-team/) - Atomic Red Team for the cloud
+
+[PHP Obfuscator](https://www.gaijin.at/en/tools/php-obfuscator)
+
+
 
