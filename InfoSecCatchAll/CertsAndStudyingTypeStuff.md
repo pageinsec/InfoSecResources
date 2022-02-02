@@ -18,3 +18,5 @@
 
 [clong/DetectionLab](https://github.com/clong/DetectionLab)
 
+[Blue Team PowerShell](https://blueteampowershell.com/) - Jason Fossen's SANS SEC505 stuff
+

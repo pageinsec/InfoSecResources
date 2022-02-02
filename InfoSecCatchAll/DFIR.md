@@ -69,6 +69,8 @@ KAPE - free for research purposes and for internal: [KAPE Enterprise License (kr
 
 [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - hard drive forensics analysis (other good repos there too)
 
+[ExifTool](https://exiftool.org/)
+
 
 
 
