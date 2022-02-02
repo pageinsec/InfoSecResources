@@ -82,6 +82,14 @@
 
 [Get-FullPathFileStacking.ps1](https://gist.github.com/anonymous/e8ced9c92a689e4cdb67fe0417cd272c)
 
+[trufflesecurity/truffleHot](https://github.com/trufflesecurity/truffleHog)
+
+[3lp4tr0n/BeaconHunter](https://github.com/3lp4tr0n/BeaconHunter)
+
+[mandiant/flare-vm](https://github.com/mandiant/flare-vm)
+
+
+
 ### Red Team Tools
 
 [outflanknl/RedELK](https://github.com/outflanknl/RedELK) - SIEM for red teams (watch them watch you)

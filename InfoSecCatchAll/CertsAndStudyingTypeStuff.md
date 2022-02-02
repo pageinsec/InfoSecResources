@@ -14,3 +14,7 @@
 
 [Alex/subtlystoic eCIR prep](https://subtlystoic.medium.com/how-to-prepare-for-the-ecir-exam-5735235b2098)
 
+# Lab Stuff
+
+[clong/DetectionLab](https://github.com/clong/DetectionLab)
+
