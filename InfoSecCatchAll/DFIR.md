@@ -1,4 +1,4 @@
-# DFIR
+# DFIR/RE/Malware Analysis/Etc
 
 ## Cheat Sheets/Quick info
 [SANS DFIR Cheat Sheets & Posters](https://www.sans.org/posters/?focus-area=digital-forensics)
@@ -46,6 +46,8 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [Malware Unicorn's Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 
+[hasherezade - How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
+
 ## Tools
 Collection of DFIR tools on GitHub: [meirwah/awesome-incident-response: A curated list of tools for incident response (github.com)](https://github.com/meirwah/awesome-incident-response)
 
@@ -70,6 +72,8 @@ KAPE - free for research purposes and for internal: [KAPE Enterprise License (kr
 [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - hard drive forensics analysis (other good repos there too)
 
 [ExifTool](https://exiftool.org/)
+
+[paazmaya/shuji](https://github.com/paazmaya/shuji) - RE JS and CSS sources from sitemaps
 
 
 

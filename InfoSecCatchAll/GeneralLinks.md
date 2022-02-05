@@ -94,7 +94,9 @@
 
 [blst-security/cherrbomb](https://github.com/blst-security/cherrybomb) - API spec validation tool
 
-[trailofbits/it-depends](https://github.com/trailofbits/it-depends) - automatically build dependency graph and SBOM
+[trailofbits/it-depends](https://github.com/trailofbits/it-depends) - Automatically build dependency graph and SBOM
+
+[target/mmk-ui-api](https://github.com/target/mmk-ui-api) - Detect digital skimmers
 
 ### Red Team Tools
 

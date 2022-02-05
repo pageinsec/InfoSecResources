@@ -20,6 +20,8 @@
 
 [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - TypeScript utilities for AWS lambda functions to ease adopting best practices; big warning to not use library in prod (beta)
 
+[rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) - Bunch of stuff about Azure
+
 ## Cloud Pentesting Practice (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
 [flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper
 
