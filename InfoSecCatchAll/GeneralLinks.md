@@ -88,7 +88,13 @@
 
 [mandiant/flare-vm](https://github.com/mandiant/flare-vm)
 
+[MS Log Parser 2.2](https://www.microsoft.com/en-eg/download/details.aspx?id=24659)
 
+[hahwul/authz0](https://github.com/hahwul/authz0) - Automated authorization testing tool
+
+[blst-security/cherrbomb](https://github.com/blst-security/cherrybomb) - API spec validation tool
+
+[trailofbits/it-depends](https://github.com/trailofbits/it-depends) - automatically build dependency graph and SBOM
 
 ### Red Team Tools
 
@@ -108,11 +114,17 @@
 
 [opsdisk/the_cyber_plumbers_handbooks](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 
+[HOUDINI](https://houdini.secsi.io/) - Hundreds of Offensive and Useful Docker Images for Network Intrusion
+
+
+
 [swimlane/atomic-operator](https://github.com/swimlane/atomic-operator)
 
 [DataDog/stratus-red-team](https://github.com/Datadog/stratus-red-team/) - Atomic Red Team for the cloud
 
 [PHP Obfuscator](https://www.gaijin.at/en/tools/php-obfuscator)
 
+[s0md3v/Arjun](https://github.com/s0md3v/Arjun) - finds query parameters for URL endpoints
 
+[OWASP/Nettacker](https://github.com/OWASP/Nettacker) - automated pentesting and info gathering
 

@@ -16,3 +16,16 @@ SANS CTI Summit 2022 links: [SANS DFIR 2022 - start.me](https://start.me/p/6rnyL
 
 [aptnotes](https://github.com/aptnotes/)
 
+[How to perform threat hunting during an incident](https://security.packt.com/how-to-perform-threat-hunting-during-an-incident/)
+
+# Tools/Scripts/Whatever
+[Get-FullPathFileStacking.ps1](https://gist.github.com/anonymous/e8ced9c92a689e4cdb67fe0417cd272c)
+
+[Get-TimeDiffFileStacking.ps1](https://gist.github.com/anonymous/dcfa7cb4933b30954737ccbf51024c1a)
+
+[Get-W3WpChildProcess.ps1](https://gist.github.com/anonymous/140f4455ede789f7c3c3419946d1bd66)
+
+[Get-W3WpChildren.ps1](https://gist.github.com/anonymous/7b7b17499b41d9c86f38e76f59c2677e)
+
+[EXIF PHP Hunt Scirpt](https://pastebin.com/F2zMDPUF)
+

@@ -10,7 +10,17 @@
 
 [Queit Riot](https://github.com/righteousgambit/quiet-riot) - see [associated blog post](https://blog.traingrc.com/introducing-quiet-riot-c595cfa629e), AWS enumeration
 
-## Cloud Pentesting (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
+[hausec/PowerZure](https://github.com/hausec/PowerZure) - Assess/exploit resources in Azure
+
+[ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - Repo w/publicly disclosed AWS incidents w/known RC; learn from the mistakes of others
+
+[WeAreCloudar/cfn-drift-remediation](https://github.com/WeAreCloudar/cfn-drift-remediation) - Remediate cloudformation drift
+
+[simonw/s3-credentials](https://github.com/simonw/s3-credentials) - Tool for creating cresd for accessing S3 buckets
+
+[awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - TypeScript utilities for AWS lambda functions to ease adopting best practices; big warning to not use library in prod (beta)
+
+## Cloud Pentesting Practice (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
 [flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper
 
 [Serverless Goat](https://github.com/OWASP/Serverless-Goat#:~:text=ServerlessGoat%20is%20a%20simple%20AWS%20Lambda%20application%2C%20which,for%20deployment%20through%20the%20AWS%20Serverless%20Application%20Repository.) - OWASP

@@ -20,3 +20,21 @@
 
 [Blue Team PowerShell](https://blueteampowershell.com/) - Jason Fossen's SANS SEC505 stuff
 
+[commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets) - ways not to store secrets
+
+[optiv/InsecureShop](https://github.com/optiv/InsecureShop) - insecure Android app
+
+[PalindromLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Start multiple local WebSocket servers in parallel for testing
+
+# Misc
+
+[Frida Handbook](https://learnfrida.info/)
+
+[PalindromeLabs/awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) - Stuff related to WebSocket security
+
+[Abusing Reverse Proxies, Part 1: Metadata](https://blog.projectdiscovery.io/abusing-reverse-proxies-metadata/)
+
+[Abusing Reverse Proxies, Part 2: Internal Access](https://blog.projectdiscovery.io/abusing-reverse-proxies-internal-access/)
+
+
+
