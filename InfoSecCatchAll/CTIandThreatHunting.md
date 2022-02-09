@@ -2,7 +2,7 @@
 
 [SANS Threat Hunting 2021 links](https://start.me/p/DP6oRw/sans-threat-hunting-2021)
 
-SANS CTI Summit 2022 links: [SANS DFIR 2022 - start.me](https://start.me/p/6rnyLp/sans-cyber-threat-intelligence-summit-2022)
+SANS CTI Summit 2022 links: [SANS CTI Summit 2022 - start.me](https://start.me/p/6rnyLp/sans-cyber-threat-intelligence-summit-2022)
 
 [The Diamond Model Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 
@@ -17,6 +17,8 @@ SANS CTI Summit 2022 links: [SANS DFIR 2022 - start.me](https://start.me/p/6rnyL
 [aptnotes](https://github.com/aptnotes/)
 
 [How to perform threat hunting during an incident](https://security.packt.com/how-to-perform-threat-hunting-during-an-incident/)
+
+[How to Write Simple but Sound Yara Rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
 
 # Tools/Scripts/Whatever
 [Get-FullPathFileStacking.ps1](https://gist.github.com/anonymous/e8ced9c92a689e4cdb67fe0417cd272c)
