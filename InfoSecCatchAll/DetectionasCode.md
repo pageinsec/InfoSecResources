@@ -20,6 +20,8 @@ https://docs.microsoft.com/en-us/azure/sentinel/notebooks
 
 https://docs.microsoft.com/en-us/azure/sentinel/notebook-get-started
 
+https://infosecb.medium.com/practical-detection-as-code-8a8fe7c65676
+
 # Testing Detections
 
 https://www.blumira.com/how-to-test-your-siems-detections/
@@ -39,6 +41,10 @@ https://github.com/SigmaHQ/sigma
 https://github.com/elastic/detection-rules
 
 https://github.com/Azure/Azure-Sentinel-Notebooks
+
+https://github.com/grapl-security/grapl
+
+
 
 # API stuff
 

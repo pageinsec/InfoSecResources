@@ -96,6 +96,8 @@
 
 [trailofbits/it-depends](https://github.com/trailofbits/it-depends) - Automatically build dependency graph and SBOM
 
+[GitBOM](https://gitbom.dev/) - Build artifact tree (supplement to SBOM, not Git, not an SBOM)
+
 [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - Detect digital skimmers
 
 ### Red Team Tools
