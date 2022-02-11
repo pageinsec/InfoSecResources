@@ -22,6 +22,16 @@
 
 [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) - Bunch of stuff about Azure
 
+[thinkst AWS canarytokens](https://blog.thinkst.com/2022/02/a-safety-net-for-aws-canarytokens.html)
+
+[carlospolop/PurplePanda](https://github.com/carlospolop/PurplePanda) - Find priv esc paths and dangerous permissions in the cloud (like BloudHound)
+
+[infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform
+
+[ncc-erik-steringer/Aerides](https://github.com/ncc-erik-steringer/Aerides) - IaC scanning (see [here](https://research.nccgroup.com/2022/02/02/testing-infrastructure-as-code-using-dynamic-tooling/) for more info)
+
+[outsideris/citizen](https://github.com/outsideris/citizen) - Private Terraform Module and Terraform Provider registry
+
 ## Cloud Pentesting Practice (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
 [flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper
 

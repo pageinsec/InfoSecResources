@@ -26,6 +26,10 @@
 
 [PalindromLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Start multiple local WebSocket servers in parallel for testing
 
+[dhondta/python-codext](https://github.com/dhondta/python-codext) - Codec extender, some interesting options
+
+[bridgecrewio/kusomizegoat](https://github.com/bridgecrewio/kustomizegoat) - Kubernetes testing fun
+
 # Misc
 
 [Frida Handbook](https://learnfrida.info/)

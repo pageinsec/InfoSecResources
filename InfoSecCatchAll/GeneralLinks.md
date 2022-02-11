@@ -11,7 +11,9 @@
 
 [juliocesarfort - public pentesting reports](https://github.com/juliocesarfort/public-pentesting-reports)
 
-[apsdehal - awesome-ctf](https://github.com/apsdehal/awesome-ctf) - a bit dated, but some good stuff
+[apsdehal - awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A bit dated, but some good stuff
+
+[decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - Collection of hardening info
 
 ### Network stuff
 
@@ -21,9 +23,9 @@
 
 [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS stuff, including security applications 
 
-[ddosify](https://github.com/ddosify/ddosify) - load testing tool
+[ddosify](https://github.com/ddosify/ddosify) - Load testing tool
 
-[API Clarity](https://apiclarity.io/) - check API security
+[API Clarity](https://apiclarity.io/) - Check API security
 
 [sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows events samples
 
@@ -100,6 +102,10 @@
 
 [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - Detect digital skimmers
 
+[nccgroup/nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) - Collection of nmap vuln scanning scripts
+
+[FourCoreLabs/firedrill](https://github.com/FourCoreLabs/firedrill) - Build malware
+
 ### Red Team Tools
 
 [outflanknl/RedELK](https://github.com/outflanknl/RedELK) - SIEM for red teams (watch them watch you)
@@ -120,8 +126,6 @@
 
 [HOUDINI](https://houdini.secsi.io/) - Hundreds of Offensive and Useful Docker Images for Network Intrusion
 
-
-
 [swimlane/atomic-operator](https://github.com/swimlane/atomic-operator)
 
 [DataDog/stratus-red-team](https://github.com/Datadog/stratus-red-team/) - Atomic Red Team for the cloud
@@ -131,4 +135,6 @@
 [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - finds query parameters for URL endpoints
 
 [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - automated pentesting and info gathering
+
+[akabe1/OAUTHScan](https://github.com/akabe1/OAUTHScan) - Burp Suite extension to check OAUTHv2, OpenID stuff
 
