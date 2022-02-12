@@ -20,6 +20,8 @@ SANS CTI Summit 2022 links: [SANS CTI Summit 2022 - start.me](https://start.me/p
 
 [How to Write Simple but Sound Yara Rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
 
+[Threat modeling for beginners](https://security.packt.com/threat-modeling/)
+
 [Beginner's Corner: Using the Microsoft Threat Modeling Tool](https://security.packt.com/beginners-corner-using-the-microsoft-threat-modeling-tool/)
 
 
