@@ -50,6 +50,7 @@ DFIR Diva websites, etc. [Websites and Webinars - DFIR Diva](https://dfirdiva.co
 
 [CREST Cyber Security Incident Response Maturity Assessment](https://www.crest-approved.org/cyber-security-incident-response-maturity-assessment/index.html)
 
+[How to manage vulnerabilities during a live incicent with OpenVas](https://security.packt.com/how-to-manage-vulnerabilities-during-a-live-incident-with-openvas/)
 
 ## Tools
 Collection of DFIR tools on GitHub: [meirwah/awesome-incident-response: A curated list of tools for incident response (github.com)](https://github.com/meirwah/awesome-incident-response)

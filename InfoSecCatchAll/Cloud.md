@@ -28,9 +28,15 @@
 
 [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform
 
+[accurics/terrascan](https://github.com/accurics/terrascan) - Static code analyzer for Terraform
+
+[pulumi/pulumi](https://github.com/pulumi/pulumi) - IaC SDK
+
 [ncc-erik-steringer/Aerides](https://github.com/ncc-erik-steringer/Aerides) - IaC scanning (see [here](https://research.nccgroup.com/2022/02/02/testing-infrastructure-as-code-using-dynamic-tooling/) for more info)
 
 [outsideris/citizen](https://github.com/outsideris/citizen) - Private Terraform Module and Terraform Provider registry
+
+[projectcalico](https://github.com/projectcalico) - L3 approach to virtual networking (for more info see [main page](https://www.tigera.io/project-calico/))
 
 ## Cloud Pentesting Practice (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
 [flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper

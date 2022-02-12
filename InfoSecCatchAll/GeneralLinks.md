@@ -106,6 +106,10 @@
 
 [FourCoreLabs/firedrill](https://github.com/FourCoreLabs/firedrill) - Build malware
 
+[lyft/cartography](https://github.com/lyft/cartography) - Consolidates infrastructure assets and relationships into graph view
+
+[grafeas/kritis](https://github.com/grafeas/kritis) - Secure software supply chain for Kubernetes apps
+
 ### Red Team Tools
 
 [outflanknl/RedELK](https://github.com/outflanknl/RedELK) - SIEM for red teams (watch them watch you)
