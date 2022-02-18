@@ -24,6 +24,8 @@ SANS CTI Summit 2022 links: [SANS CTI Summit 2022 - start.me](https://start.me/p
 
 [Beginner's Corner: Using the Microsoft Threat Modeling Tool](https://security.packt.com/beginners-corner-using-the-microsoft-threat-modeling-tool/)
 
+[StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/China/APT/Antlion/Notes_Antlion.md)
+
 
 
 # Tools/Scripts/Whatever

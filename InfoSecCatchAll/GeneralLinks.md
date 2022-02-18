@@ -100,6 +100,8 @@
 
 [GitBOM](https://gitbom.dev/) - Build artifact tree (supplement to SBOM, not Git, not an SBOM)
 
+[sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps#oss-and-dependency-management) - A bunch of devsecops resources
+
 [target/mmk-ui-api](https://github.com/target/mmk-ui-api) - Detect digital skimmers
 
 [nccgroup/nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) - Collection of nmap vuln scanning scripts
@@ -109,6 +111,8 @@
 [lyft/cartography](https://github.com/lyft/cartography) - Consolidates infrastructure assets and relationships into graph view
 
 [grafeas/kritis](https://github.com/grafeas/kritis) - Secure software supply chain for Kubernetes apps
+
+[bk-cs/rtr](https://github.com/bk-cs/rtr) - Stuff to use w/CrowdStrike Falcon RT Response and Falcon Fusion
 
 ### Red Team Tools
 

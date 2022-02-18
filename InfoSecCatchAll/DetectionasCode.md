@@ -1,5 +1,9 @@
 # Background
 
+[Snowflake - Detection development lifecycle](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc)
+
+[Palantir - Alerting & Detection Strategy Framework](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2)
+
 https://blog.runpanther.io/detections-as-code/
 
 https://softtek.eu/en/tech-magazine-en/cybersecurity-en/the-detection-as-code-dac-approach-to-cybersecurity/
@@ -24,27 +28,27 @@ https://infosecb.medium.com/practical-detection-as-code-8a8fe7c65676
 
 # Testing Detections
 
-https://www.blumira.com/how-to-test-your-siems-detections/
+[Blumira - How to test your siems detections](https://www.blumira.com/how-to-test-your-siems-detections/)
 
-https://www.blumira.com/wp-content/uploads/2020/08/Five-Easy-Ways-to-Test-Your-SIEMs-Detections.pdf
+[Blumira - Five easy ways to test your siems detections](https://www.blumira.com/wp-content/uploads/2020/08/Five-Easy-Ways-to-Test-Your-SIEMs-Detections.pdf)
 
-https://medium.com/@a.randomuserid/generating-att-ck-signals-in-the-elastic-siem-1c1e295404cc
+[Craig Chamberlain - Generating ATT&CK signals in the elastic siem](https://medium.com/@a.randomuserid/generating-att-ck-signals-in-the-elastic-siem-1c1e295404cc)
 
 # Associated repos
 
-https://github.com/panther-labs/panther-analysis
+[panther-labs/panther-analysis](https://github.com/panther-labs/panther-analysis)
 
-https://github.com/splunk/security_content
+[splunk/security_content](https://github.com/splunk/security_content)
 
-https://github.com/SigmaHQ/sigma
+[SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
 
-https://github.com/elastic/detection-rules
+[elastic/detection-rules](https://github.com/elastic/detection-rules)
 
-https://github.com/Azure/Azure-Sentinel-Notebooks
+[Azure/Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 
-https://github.com/grapl-security/grapl
+[grapl-security/grapl](https://github.com/grapl-security/grapl)
 
-
+[palantir/alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework)
 
 # API stuff
 
