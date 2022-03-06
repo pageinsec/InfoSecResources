@@ -26,7 +26,7 @@ SANS CTI Summit 2022 links: [SANS CTI Summit 2022 - start.me](https://start.me/p
 
 [StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/China/APT/Antlion/Notes_Antlion.md)
 
-
+[OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Malicious and benign datasets for analysis/research
 
 # Tools/Scripts/Whatever
 [Get-FullPathFileStacking.ps1](https://gist.github.com/anonymous/e8ced9c92a689e4cdb67fe0417cd272c)

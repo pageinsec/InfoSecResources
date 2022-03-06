@@ -148,3 +148,15 @@
 
 [tennc/webshell](https://github.com/tennc/webshell) - Open source webshell project
 
+[RustScan/RustScan](https://github.com/RustScan/RustScan) - Port scanner 
+
+[OWASP/Amass](https://github.com/OWASP/Amass) - Network mapping of attack surfaces and external asset discovery
+
+[zricetehzav/gitleaks](https://github.com/zricethezav/gitleaks) - Secret scanner
+
+[sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - S3 scanner
+
+[initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Cloud OSINT tool
+
+
+
