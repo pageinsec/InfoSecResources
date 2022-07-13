@@ -39,3 +39,8 @@ SANS CTI Summit 2022 links: [SANS CTI Summit 2022 - start.me](https://start.me/p
 
 [EXIF PHP Hunt Scirpt](https://pastebin.com/F2zMDPUF)
 
+[alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview)
+
+[sk4la/plast](https://github.com/sk4la/plast)
+
+

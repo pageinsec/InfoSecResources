@@ -158,5 +158,7 @@
 
 [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Cloud OSINT tool
 
+[kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
+
 
 

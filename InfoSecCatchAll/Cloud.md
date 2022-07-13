@@ -38,6 +38,8 @@
 
 [projectcalico](https://github.com/projectcalico) - L3 approach to virtual networking (for more info see [main page](https://www.tigera.io/project-calico/))
 
+[nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud auditing tool
+
 ## Cloud Pentesting Practice (from tl:dr sec from [0xAs1F](https://twitter.com/0xAs1F/status/1480605815039877130) thread)
 [flaws.cloud](http://flaws.cloud/) and [flaws2.cloud2](http://flaws2.cloud/) - Scott Piper
 

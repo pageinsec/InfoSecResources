@@ -38,3 +38,4 @@
 
 [TCM OSINT Fundamentals](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 
+[SANS OSINT Summit 2022 links](https://start.me/p/1kBrw9/sans-osint-2022)
